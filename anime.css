@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("images/aot.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+background-color: rgba(0, 0, 0, 0.5);
+height: 100;
+}
+
+.anime{
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: gold;
+text-align: center;
+}
+.aot{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:gold;
+    text-align: center;
+}
+.netflix{
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: red;
+text-align: center;
+}
+.onnetflix{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:lightblue;
+font-size: 20px;
+}
+.crunchyroll{
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: orange;
+text-align: center;
+}
+.up{
+  font-size: 2opx;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;  
+}
+.sign{
+font-size: 2opx;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
